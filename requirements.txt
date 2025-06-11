@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+nltk
+requests
+pytest
+python-dotenv
+pytest-asyncio
+httpx
+pytest-cov
