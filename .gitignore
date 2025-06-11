@@ -12,3 +12,6 @@ dist/
 .env
 *.log
 .pytest_cache/
+.coverage
+text_analyzer.db
+test.db
