@@ -1,4 +1,3 @@
-```markdown
 # Text Analyzer API
 
 Uma API REST para consulta de palavras, que analisa textos fornecidos, contagem de palavras-chave e estatísticas de sentimento, usando FastAPI, NLTK, SQLite e a API do Hugging Face.
